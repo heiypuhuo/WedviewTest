@@ -20,6 +20,7 @@ public class MainActivity extends AppCompatActivity {
                 return true;
             }
         });
+        //zheshizuse
         webView.loadUrl("http://www.baidu.com");
     }
 }
